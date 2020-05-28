@@ -15,7 +15,7 @@ const Header = styled.div`
   align-items: center;
   justify-content: center;
   padding: 15px 0px;
-  background: #FF6347;
+  background: #add8e6;
 
   .text-logo {
     font-size: 30px;
