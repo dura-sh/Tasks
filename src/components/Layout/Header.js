@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export default () => {
   return (
     <Header>
-      <div className="text-logo">Trello</div>
+      <div className="text-logo">Dura.Tasks</div>
     </Header>
   )
 }
@@ -15,7 +15,7 @@ const Header = styled.div`
   align-items: center;
   justify-content: center;
   padding: 15px 0px;
-  background: #c77979;
+  background: #FF6347;
 
   .text-logo {
     font-size: 30px;
